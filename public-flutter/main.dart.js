@@ -21778,7 +21778,7 @@ s=$.ct()
 r=t.h
 if(s.$1$0(r).gRu())m.p(0,p,"Bearer "+s.$1$0(r).ky(0,"token"))
 else m.p(0,p,"uD4hL3wat4j@g@n")
-n.x3$=B.atJ("http://localhost:3000/table_reservation/api",1e4,m,!0,1e4,1e4)
+n.x3$=B.atJ("http://mtechlogs.hopto.org/table_reservation/api",1e4,m,!0,1e4,1e4)
 o.B(o,new O.yv(!0,!0,!0))
 return n}},Y={
 qh(a){var s,r,q,p=a.I(t.w).f.a.a
